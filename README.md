@@ -25,11 +25,11 @@ CARGO_BUILD_TARGET="$(rustc -Vv | grep "host" | awk '{print $2}')" pip install m
 pkg install git
 ```
 ```
-git clone https://github.com/ashtrobe/notpixel-ad.git
+git clone https://github.com/Knigh7op/notpixelkalki.git
 ```
 # **CHANGE DIRECTORY TO SCRIPT FOLDER**
 ```
-cd notpixel-ad
+cd notpixelkalki
 ```
 # **INSTALL REQUIREMENTS**
 ```
